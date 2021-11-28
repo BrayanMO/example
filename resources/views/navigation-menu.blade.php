@@ -20,7 +20,7 @@
                     </x-jet-nav-link>
 
                     <x-jet-danger-button class="flex items-end">
-                        Hola mundo!
+                        Hola mundooo!
                     </x-jet-danger-button>
                 </div>
             </div>
